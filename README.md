@@ -98,6 +98,6 @@ PostgreSQL: Named Volume (pgdata) kullanılarak /var/lib/postgresql/data dizini 
 
 Nexus 3: Bind Mount kullanılarak ana makinedeki ~/nexus-data klasörü konteyner içerisindeki /nexus-data dizinine eşlenmiştir.
 ---
-👨‍💻 **Hazırlayan:** [Eda](https://github.com/edanr12)
+👨‍💻 **Hazırlayan:** [Edanur](https://github.com/edanr12)
 
 
